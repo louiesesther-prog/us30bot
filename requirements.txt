@@ -1,4 +1,5 @@
+streamlit
+yfinance
 pandas
+plotly
 numpy
-ib_insync  # The gold standard for IBKR API
-pytz
